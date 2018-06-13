@@ -9,6 +9,9 @@
   "author": "Gerlis Álvarez C. <gerlis1997@gmail.com> (https://github.com/gerlis18)",
   "license": "MIT",
   "dependencies": {
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.37.10",
     "standard": "^11.0.1"
   }
 }
